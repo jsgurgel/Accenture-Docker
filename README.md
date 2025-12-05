@@ -1,4 +1,4 @@
-# Toshiro Shibakita - Docker Microsserviços (Fork & Improved)
+# Docker Microsserviços (Fork do projeto do Toshiro Shibakita)
 
 Projeto faz parte dos desafios propostos pelo curso "Accenture - Desenvolvimento Java & Cloud", módulo "Docker: Utilização Prática no Cenário de Microsserviços", da qual foi feita uma cópia do projeto, denilsonbonatti/toshiro-shibakita, hospedado no GitHub.
 Objetivo: reproduzir e melhorar a estrutura mínima para execução local usando Docker Compose,
